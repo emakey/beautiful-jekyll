@@ -10,9 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
-url: "https://emakey.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+title: Emakey Website
 
 # Your name to show in the footer
 author: Some Person
