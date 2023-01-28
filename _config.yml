@@ -11,8 +11,8 @@
 
 # Name of website
 title: My Website
-url: emakey.github.io
-baseurl: /beautiful-jekyll
+url: "emakey.github.io"
+baseurl: "/beautiful-jekyll"
 
 # Your name to show in the footer
 author: Some Person
